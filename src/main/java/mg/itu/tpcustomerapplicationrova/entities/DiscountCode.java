@@ -97,7 +97,7 @@ public class DiscountCode implements Serializable {
 
     @Override
     public String toString() {
-        return "com.mycompany.tpcustomerapplicationrova.entities.DiscountCode[ discountCode=" + discountCode + " ]";
+        return "mg.itu.tpcustomerapplicationrova.entities.DiscountCode[ discountCode=" + discountCode + " ]";
     }
     
 }

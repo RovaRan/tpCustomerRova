@@ -204,7 +204,7 @@ public class Customer implements Serializable {
 
     @Override
     public String toString() {
-        return "com.mycompany.tpcustomerapplicationrova.entities.Customer[ customerId=" + customerId + " ]";
+        return "mg.itu.tpcustomerapplicationrova.entities.Customer[ customerId=" + customerId + " ]";
     }
     
 }
