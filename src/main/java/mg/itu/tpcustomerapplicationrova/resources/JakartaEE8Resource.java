@@ -1,4 +1,4 @@
-package com.mycompany.tpcustomerapplicationrova.resources;
+package mg.itu.tpcustomerapplicationrova.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

@@ -1,4 +1,4 @@
-package com.mycompany.tpcustomerapplicationrova;
+package mg.itu.tpcustomerapplicationrova;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

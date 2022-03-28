@@ -4,7 +4,7 @@
  */
 package mg.itu.tpcustomerapplicationrova.session;
 
-import com.mycompany.tpcustomerapplicationrova.entities.Customer;
+import mg.itu.tpcustomerapplicationrova.entities.Customer;
 import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
@@ -15,8 +15,7 @@ import javax.persistence.Query;
  *
  * @author rranaivo
  */
-
-@Stateless  
+@Stateless
 public class CustomerManager {
 
     @PersistenceContext(unitName = "customerPU")
